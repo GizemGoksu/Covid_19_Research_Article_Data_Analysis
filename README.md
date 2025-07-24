@@ -3,7 +3,7 @@
 This project explores the CORD-19 (COVID-19 Open Research Dataset), provided by the Allen Institute for AI via Kaggle. The dataset includes thousands of scholarly articles related to COVID-19 and other coronaviruses, aiming to support the global research community in combating the pandemic.
 
 📁 Dataset Source
-Kaggle Dataset: [https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge]
+Kaggle Dataset: https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge
 
 The dataset includes metadata and full texts of articles from sources like PubMed, WHO, and preprint servers (e.g., bioRxiv, medRxiv).
 
