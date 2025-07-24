@@ -19,6 +19,8 @@ The main objectives of this project are:
 - To answer a specific research question by finding the most relevant scientific articles from the dataset.
 
 🔍 Research Question
+
+
 I simulated a real-world research scenario by formulating a specific question related to COVID-19 and using TF-IDF and cosine similarity to retrieve the most relevant articles from the dataset based on their titles and abstracts.
 
 📌 Example question: "Which drugs are most effective for treating COVID-19 symptoms?"
